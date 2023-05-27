@@ -65,7 +65,6 @@ The project was performed with the help of Louise Olsson
 
 **Demonstration of EKF orientation estimate:**
 ![image info](./figures/smartphone.gif)
-![image info](./figures/smartphone2.gif)
 
 **EKF accuracy compared to built-in filter:**
 ![image info](./figures/ourVSgoogle.png)
