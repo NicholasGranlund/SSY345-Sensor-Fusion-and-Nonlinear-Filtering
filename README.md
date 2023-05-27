@@ -48,7 +48,7 @@ Topics:
 - Trajectory estimation with / without particle resampling
 - Bicycle tracking and positional estimate
 
-## Final Project
+## Final Project:
 
 Topics:
 - Orientation estimate of smartphone, iOS based
