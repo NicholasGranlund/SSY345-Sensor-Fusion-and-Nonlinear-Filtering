@@ -69,3 +69,4 @@ The project was performed with the help of Louise Olsson
 
 **EKF accuracy compared to built-in filter:**
 ![image info](./figures/ourVSgoogle.png)
+
