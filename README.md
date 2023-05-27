@@ -62,3 +62,9 @@ Topics:
 This repository also contains files developed by the group members which supports iOS devices. Please see filterTemplateiOS.m
 
 The project was performed with the help of Louise Olsson
+
+**Demonstration of EKF orientation estimate:**
+![image info](./figures/smartphone.gif)
+
+**EKF accuracy compared to built-in filter:**
+![image info](./figures/ourVSgoogle.png)
